@@ -1,0 +1,162 @@
+﻿body 
+{    
+}
+
+#Globalblock
+{
+    position:absolute;
+    margin-left:18%;
+    margin-top:30px;
+    width:52%;
+    height:100%;
+    background-color: #FBFBEF;
+    z-index:4;   
+} 
+  
+#chat
+{
+
+}
+#header 
+{
+    background-color: #3b5998;
+    height: 39px;
+    width:100%;
+    position:fixed;
+    margin-left:-10px;
+    margin-top:-10px;
+    border-bottom:1px solid #08298A;
+    z-index:5;        
+}
+#logo
+{ 
+    position:absolute;
+    margin-left:18%;
+    margin-top:2px;
+    height:36px;
+    
+}
+#left-sidebar
+{ 
+    position:relative;
+    width:19%;
+    height:1500px;
+    background-color: #EFFBEF;
+    float:left;
+    border-right:1px solid #D8D8D8;
+    z-index:inherit;
+}
+
+#right-sidebar
+{
+    position:relative;
+    width:25%;
+    height:1500px;
+    background-color: #EFFBEF;
+    float:right;
+    z-index:inherit;
+    border-right:1px solid #D8D8D8;
+}
+
+#eins
+{
+    position:absolute;
+    margin-left:450px;
+    margin-top:9px;
+    height:25px;
+}
+#zwei
+{
+    position:absolute;
+    margin-left:475px;
+    margin-top:9px;
+    height:25px;
+}
+#drei
+{
+    position:absolute;
+    margin-left:500px;
+    margin-top:9px;
+    height:25px;
+}
+#vier
+{
+    position:absolute;
+    margin-left:56%;
+    margin-top:10px;
+    height:25px;
+}
+#fuenf
+{
+    position:absolute;
+    margin-left:58%;
+    margin-top:10px;
+    height:25px;
+    color: #d8dfea;
+    font-weight: bold;
+    line-height: 29px;
+    font-size:small;
+    font-family:tahoma;
+}
+#sechs
+{
+    position:absolute;
+    margin-left:65%;
+    margin-top:10px;
+    height:25px;
+    color: #d8dfea;
+    font-weight: bold;
+    line-height: 29px;
+    font-size:small;
+    font-family:tahoma;
+}
+#sieben
+{
+    position:absolute;
+    margin-left:69%;
+    margin-top:15px;
+    height:16px;   
+}
+#profilfoto
+{
+    position:relative;
+    margin-top:20px;
+    height:40px;
+    float:left;
+}
+#profiltxt
+{
+    position:relative;
+    margin-top:26px;
+    margin-left:48px;
+    font-family:tahoma;
+    font-size:small;
+    font-weight: bold;
+    color: #3b5998;
+}
+#profilbeab
+{
+    position:relative;
+    margin-left:48px;
+    font-family:tahoma;
+    font-size:small;
+    color: #3b5998;
+}
+.listen
+{
+    font-family:tahoma;
+    font-size:small;
+    font-weight: bold;
+    color:#BDBDBD;
+    list-style:none;
+    margin-left:-40px;
+    
+}
+.listenpunkte
+    {
+    font-family:tahoma;
+    font-size:small;
+    list-style:none;
+    
+    
+}
