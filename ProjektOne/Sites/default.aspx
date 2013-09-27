@@ -10,7 +10,6 @@
     </style>
 </head>
 <body>
-    
    <div id="chat"><!--chat--></div>
    <div id="header"> <!--Header-->
         <a href="http://localhost:53460/Sites/default.aspx"></a><img id="logo" src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash3/1234495_567613223292666_806192645_n.jpg" /></a>
@@ -35,9 +34,7 @@
         </div>
    </div>
    <div id="Globalblock">
-        
         <div id="left-sidebar"><!--left sidebar-->
-            
                 <div><!--profilfoto--><img id="profilfoto" src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/261058_100001319798680_1883854016_q.jpg" />
                 </div>
                 <div id="profiltxt"><!--profiltxt-->Niklas Beverungen
@@ -50,13 +47,15 @@
                     <li>Veranstaltungen</li>
                     <li>Fotos</li>
                 </ul>
-                <ul class="listen">GRUPPEN
-                    <li><div class="listenpunkte">b</div></li>
-                    <li><div class="listenpunkte">b</div></li>
-                    <li><div class="listenpunkte">b</div></li>
-                    <li><div class="listenpunkte">b</div></li>
+                <ul class="listen">
+                    <li>GRUPPEN</li>
+                    <li><div>b</div></li>
+                    <li><div>b</div></li>
+                    <li><div>b</div></li>
+                    <li><div>b</div></li>
                 </ul>
-                <ul class="listen">APPS
+                <ul class="listen">
+                    <li class="liHead">APPS</li>
                     <li>c</li>
                     <li>c</li>
                     <li>c</li>
@@ -77,7 +76,6 @@
         </div>
         <div id="center"><!--center--></div>
         <div id="right-sidebar" ><!--right sidebar--></div>
-        
     </div>
 </body>
 </html> 

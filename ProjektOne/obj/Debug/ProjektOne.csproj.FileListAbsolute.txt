@@ -8,3 +8,7 @@ C:\Users\Niklas\Desktop\Programmierung\projekte\ProjektOne\ProjektOne\bin\Projek
 C:\Users\Niklas\Desktop\Programmierung\projekte\ProjektOne\ProjektOne\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Niklas\Desktop\Programmierung\projekte\ProjektOne\ProjektOne\obj\Debug\ProjektOne.dll
 C:\Users\Niklas\Desktop\Programmierung\projekte\ProjektOne\ProjektOne\obj\Debug\ProjektOne.pdb
+C:\Repo\-Kindergarten\ProjektOne\bin\ProjektOne.dll
+C:\Repo\-Kindergarten\ProjektOne\bin\ProjektOne.pdb
+C:\Repo\-Kindergarten\ProjektOne\obj\Debug\ProjektOne.dll
+C:\Repo\-Kindergarten\ProjektOne\obj\Debug\ProjektOne.pdb

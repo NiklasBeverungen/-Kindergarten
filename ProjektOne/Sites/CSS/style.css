@@ -147,16 +147,15 @@
     font-family:tahoma;
     font-size:small;
     font-weight: bold;
-    color:#BDBDBD;
-    list-style:none;
     margin-left:-40px;
-    
+    list-style-type:none;
 }
-.listenpunkte
-    {
-    font-family:tahoma;
-    font-size:small;
-    list-style:none;
-    
-    
+li.liHead
+{
+    color:#BDBDBD!important;
+}
+
+#left-sidebar ul li
+{
+    color:#000;
 }
