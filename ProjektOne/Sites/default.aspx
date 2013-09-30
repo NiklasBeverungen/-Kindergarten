@@ -41,41 +41,53 @@
                 </div>
                 <div id="profilbeab"><!--profilbeab-->Profil bearbeiten
                 </div>
-                <ul class="listen">FAVORIEN
-                    <li class="listenpunkte">Neuhigkeiten</li>
+                <ul class="listen">
+                    <li class="liHead">FAVORITEN</li>
+                    <li>Neuigkeiten</li>
                     <li>Nachrichten</li>
                     <li>Veranstaltungen</li>
                     <li>Fotos</li>
                 </ul>
                 <ul class="listen">
-                    <li>GRUPPEN</li>
-                    <li><div>b</div></li>
-                    <li><div>b</div></li>
-                    <li><div>b</div></li>
-                    <li><div>b</div></li>
+                    <li class="liHead">GRUPPEN</li>
+                    <li><div>Gruppe 1</div></li>
+                    <li><div>Gruppe 2</div></li>
+                    <li><div>Gruppe 3</div></li>
+                    <li><div>Gruppe 4</div></li>
                 </ul>
                 <ul class="listen">
                     <li class="liHead">APPS</li>
-                    <li>c</li>
-                    <li>c</li>
-                    <li>c</li>
-                    <li>c</li>
+                    <li>App 1</li>
+                    <li>App 2</li>
+                    <li>App 3</li>
+                    <li>App 4</li>
                 </ul>
-                <ul class="listen">SEITEN
-                    <li>d</li>
-                    <li>d</li>
-                    <li>d</li>
-                    <li>d</li>
+                <ul class="listen">
+                    <li class="liHead">SEITEN</li>
+                    <li>Seite 1</li>
+                    <li>Seite 2</li>
+                    <li>Seite 3</li>
+                    <li>Seite 4</li>
                 </ul>
-                <ul class="listen">FREUNDE
-                    <li>e</li>
-                    <li>e</li>
-                    <li>e</li>
-                    <li>e</li>
+                <ul class="listen">
+                    <li class="liHead">FREUNDE</li>
+                    <li>Freund 1</li>
+                    <li>Freund 2</li>
+                    <li>Freund 3</li>
+                    <li>Freund 4</li>
                 </ul>
+                
         </div>
         <div id="center"><!--center--></div>
-        <div id="right-sidebar" ><!--right sidebar--></div>
+        <div id="right-sidebar" ><!--right sidebar-->
+            <div class="right-sidebar-points">
+                <div id="right-sidebar-1">Empfohlene Seiten<!--Empfohlene Seiten--></div>
+                <div id="right-sidebar-2">Gesponsert<!--Gesponsert--></div>
+            </div>
+            <div id="impressum"><!--Impressum-->Facebook © 2013
+Deutsch · Datenschutz · Impressum/Nutzungsbedingungen · Cookies · 
+Mehr</div>
+        </div>
     </div>
 </body>
 </html> 

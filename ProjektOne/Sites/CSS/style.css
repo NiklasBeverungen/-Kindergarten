@@ -1,5 +1,7 @@
 ﻿body 
-{    
+{  
+    font-family:tahoma;
+    font-size:smaller;  
 }
 
 #Globalblock
@@ -30,15 +32,15 @@
 }
 #logo
 { 
-    position:absolute;
-    margin-left:18%;
+    position:fixed;
+    margin-left:345px;
     margin-top:2px;
     height:36px;
     
 }
 #left-sidebar
 { 
-    position:relative;
+    position:absolute;
     width:19%;
     height:1500px;
     background-color: #EFFBEF;
@@ -57,64 +59,48 @@
     z-index:inherit;
     border-right:1px solid #D8D8D8;
 }
-
+#header div
+{   
+    position:absolute;
+    height:25px;
+    margin-top:10px;    
+}
+    
 #eins
 {
-    position:absolute;
-    margin-left:450px;
-    margin-top:9px;
-    height:25px;
+    margin-left:450px;      
 }
 #zwei
 {
-    position:absolute;
-    margin-left:475px;
-    margin-top:9px;
-    height:25px;
+    margin-left:475px;   
 }
 #drei
 {
-    position:absolute;
-    margin-left:500px;
-    margin-top:9px;
-    height:25px;
+    margin-left:500px;    
 }
 #vier
 {
-    position:absolute;
-    margin-left:56%;
-    margin-top:10px;
-    height:25px;
+    margin-left:1070px;
+    height:25px;   
 }
 #fuenf
 {
-    position:absolute;
-    margin-left:58%;
-    margin-top:10px;
-    height:25px;
+    margin-left:1100px;
     color: #d8dfea;
     font-weight: bold;
     line-height: 29px;
-    font-size:small;
-    font-family:tahoma;
 }
 #sechs
 {
-    position:absolute;
-    margin-left:65%;
-    margin-top:10px;
-    height:25px;
+    margin-left:1230px;
     color: #d8dfea;
     font-weight: bold;
     line-height: 29px;
-    font-size:small;
-    font-family:tahoma;
 }
 #sieben
 {
-    position:absolute;
-    margin-left:69%;
-    margin-top:15px;
+    margin-left:1315px;
+    margin-top:5px;
     height:16px;   
 }
 #profilfoto
@@ -129,8 +115,6 @@
     position:relative;
     margin-top:26px;
     margin-left:48px;
-    font-family:tahoma;
-    font-size:small;
     font-weight: bold;
     color: #3b5998;
 }
@@ -138,24 +122,51 @@
 {
     position:relative;
     margin-left:48px;
-    font-family:tahoma;
-    font-size:small;
     color: #3b5998;
 }
 .listen
 {
-    font-family:tahoma;
-    font-size:small;
-    font-weight: bold;
     margin-left:-40px;
     list-style-type:none;
 }
 li.liHead
 {
     color:#BDBDBD!important;
+    font-weight:bold;
 }
 
 #left-sidebar ul li
 {
     color:#000;
 }
+.right-sidebar-points
+{
+    position:relative;
+    color:#848484;
+    font-weight:bold;
+}
+#right-sidebar-1
+{
+    width:100%;
+    height:20px;
+    background-color:#F2F2F2;
+    margin-top:50px;
+    border-top: 1px solid #E6E6E6;
+}
+#right-sidebar-2
+{   
+    width:100%;
+    height:20px;
+    background-color:#F2F2F2;
+    margin-top:100px;
+    border-top: 1px solid #E6E6E6;
+}
+#impressum
+{
+    width:100%;
+    border-top: 2px solid #D8D8D8;
+    margin-top:700px;
+    
+}    
+   
+    
