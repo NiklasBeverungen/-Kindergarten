@@ -1,7 +1,13 @@
-﻿body 
+﻿html
+{
+    width: 200px;
+    height: 100%;    
+}
+
+body 
 {  
     font-family:tahoma;
-    font-size:smaller;  
+    font-size:smaller;
 }
 
 #Globalblock
@@ -9,9 +15,9 @@
     position:absolute;
     margin-left:18%;
     margin-top:30px;
-    width:52%;
+    width:800px;
     height:100%;
-    background-color: #FBFBEF;
+    background-color: #FFFFFF;
     z-index:4;   
 } 
   
@@ -42,8 +48,9 @@
 { 
     position:absolute;
     width:19%;
+    min-width:200px;
     height:1500px;
-    background-color: #EFFBEF;
+    background-color: #FFFFFF;
     float:left;
     border-right:1px solid #D8D8D8;
     z-index:inherit;
@@ -54,7 +61,7 @@
     position:relative;
     width:25%;
     height:1500px;
-    background-color: #EFFBEF;
+    background-color: #FFFFFF;
     float:right;
     z-index:inherit;
     border-right:1px solid #D8D8D8;
@@ -89,6 +96,7 @@
     color: #d8dfea;
     font-weight: bold;
     line-height: 29px;
+    white-space: nowrap;
 }
 #sechs
 {
